@@ -9,7 +9,6 @@
 
 clear
 pkg load symbolic
-syms x
 x = -10:1:10;
 fx = exp(x);
 plot(x, fx);
