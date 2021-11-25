@@ -12,7 +12,7 @@ pkg load symbolic
 x = -10:1:10;
 fx = (9).^(x-2);
 plot(x, fx);
-title(['La funcion 1 es biyectiva']);
+title(['La funcion 14 es biyectiva']);
 disp("Es subrayectiva por que ningun elemento del codominio sobra respecto al dominio");
 disp("Es inyectiva ya que al trazar una rectar hacia el eje x, no corta mas de un punto la recta");
 disp("Por lo tanto es biyectiva ya que cumple con las anteriores clasificaciones");
