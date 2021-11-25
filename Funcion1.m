@@ -1,5 +1,5 @@
 % Script de Octave
-% Titulo      :Funciones trascendentes
+% Titulo      :Funciones 1
 % Author      :Kevin Yoan Calderón García
 % Description :Script para graficar una funciones trascendentes
 % Date        :20211123
