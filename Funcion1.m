@@ -9,7 +9,6 @@
 
 clear
 pkg load symbolic
-syms x
 x = -10:1:10;
 fx = ((3./7).^(x));
 plot(x, fx);
