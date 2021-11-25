@@ -9,7 +9,6 @@
 
 clear
 pkg load symbolic
-syms x
 x = 5:1:10
 fx = log(x)/log(3);
 plot(x, fx);
